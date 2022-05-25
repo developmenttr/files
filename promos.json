@@ -1,0 +1,15 @@
+[{
+        "code": "WA-AndroidTR",
+        "promo_start": "1653493633756",
+        "promo_end": "2653493681931",
+        "campaign_name": "AndroidTR.es",
+        "promo_days": 7
+    },
+    {
+        "code": "WA-Police",
+        "promo_start": "1653493633756",
+        "promo_end": "2653493681931",
+        "campaign_name": "AndroidPolice",
+        "promo_days": 20
+    }
+]
