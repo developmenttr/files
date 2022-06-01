@@ -1,10 +1,10 @@
 [{
-        "code": "WA-AndroidTR",
+        "code": "WA-AndroidTR.es",
         "promo_start": "1653493633756",
-        "promo_end": "2653493681931",
+        "promo_end": "1659474300000",
         "campaign_name": "AndroidTR.es",
         "app": "es.devtr.whatsremoved.recover.deleted.messages",
-        "promo_days": 7
+        "promo_days": 15
     },
     {
         "code": "WA-Police",
