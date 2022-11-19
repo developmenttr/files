@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<defaults>
+  <entry>
+    <key>ads_constants_v3</key>
+    <value>{"admobInterstitialBlocks":[{"code":"ca-app-pub-9700692024510750/1513260553","debug":"ca-app-pub-9700692024510750/1513260553","priority":2000,"tag":"Normal"}],"admobRewardedBlocks":[{"code":"ca-app-pub-9700692024510750/3373137138","debug":"ca-app-pub-9700692024510750/3373137138","priority":100,"tag":"Normal"}],"huaweiInterstitialBlocks":[],"yandexInterstitialBlocks":[{"code":"R-M-1695491-1","debug":"R-M-DEMO-interstitial","priority":51,"tag":"Normal"}]}</value>
+  </entry>
+  <entry>
+    <key>ads_constants_2</key>
+    <value>{"admobInterstitialBlocks":[{"block":[{"code":"ca-app-pub-9700692024510750/1513260553","debug":"ca-app-pub-9700692024510750/1513260553","priority":2000,"tag":"Normal"}],"keys":"normal","tag":"Normal"},{"block":[{"code":"ca-app-pub-9700692024510750/1513260553","debug":"ca-app-pub-9700692024510750/1513260553","priority":2000,"tag":"Normal"}],"keys":"list","tag":"Lista"}],"admobRewardedBlocks":[{"block":[{"code":"ca-app-pub-9700692024510750/3373137138","debug":"ca-app-pub-9700692024510750/3373137138","priority":100,"tag":"Normal"}],"keys":"normal","tag":"Normal"},{"block":[{"code":"ca-app-pub-9700692024510750/3373137138","debug":"ca-app-pub-9700692024510750/3373137138","priority":100,"tag":"Normal"}],"keys":"temppremium","tag":"Temp. Premium"}],"huaweiInterstitialBlocks":[],"yandexInterstitialBlocks":[{"block":[{"code":"R-M-1695491-1","debug":"R-M-DEMO-interstitial","priority":51,"tag":"Normal"}],"keys":"normal","tag":"Normal"}]}</value>
+  </entry>
+  <entry>
+    <key>algorithm_configuration2</key>
+    <value>[   {     "signature": "/5/13/0/11/15/0/23/23",     "type": "W",     "deleted": true,     "edited": true,     "remote_deletion": true,     "missed": true   },   {     "signature": "/23/0/18/0/19/19/7/19",     "type": "P",     "deleted": true,     "edited": true,     "remote_deletion": true,     "missed": true   },   {     "signature": "/4/19/24/25/7",     "type": "P",     "deleted": true,     "edited": true,     "remote_deletion": true,     "missed": true   },   {     "signature": "/6/20/0/19",     "type": "P",     "deleted": true,     "edited": true,     "remote_deletion": true,     "missed": true   },   {     "signature": "/19/20/6/0/15/13/14",     "type": "P",     "deleted": true,     "edited": true,     "remote_deletion": true,     "missed": true   },   {     "signature": "/19/7/10/18/0/22",     "type": "T",     "deleted": false,     "edited": true,     "remote_deletion": true,     "missed": true   } ]</value>
+  </entry>
+  <entry>
+    <key>premium_purchase_dialog_retry_interval_min</key>
+    <value>604800001</value>
+  </entry>
+  <entry>
+    <key>ads_time_between_interstitial_local</key>
+    <value>10001</value>
+  </entry>
+  <entry>
+    <key>premium_temporal_available</key>
+    <value>true</value>
+  </entry>
+  <entry>
+    <key>worker_reloader_time_minutes</key>
+    <value>30</value>
+  </entry>
+  <entry>
+    <key>algorithm_configuration</key>
+    <value>[{                     "app": "C0199W4457",                     "type": "W",                     "deleted": true,                     "edited": true,                     "missed": false                 },         {                     "app": "C0199W4457W7688",                     "type": "W",                     "deleted": true,                     "edited": true,                     "missed": false                 },         {                     "app": "C0199L9300P1450I0646",                     "type": "P",                     "deleted": true,                     "edited": true,                     "missed": false                 },         {                     "app": "C0199P1450S1217L9840",                     "type": "P",                     "deleted": true,                     "edited": true,                     "missed": false                 },         {                     "app": "C0199L9300P1450I0646A1762",                     "type": "P",                     "deleted": true,                     "edited": true,                     "missed": false                 },         {                     "app": "C0199P1450S1217P0416",                     "type": "P",                     "deleted": true,                     "edited": true,                     "missed": false                 },         {                     "app": "C0199P1450S1217L9840A1762",                     "type": "P",                     "deleted": true,                     "edited": true,                     "missed": false                 },         {                     "app": "C0199P1450S1217P0416A1762",                     "type": "P",                     "deleted": true,                     "edited": true,                     "missed": false                 },         {                     "app": "C0199L9300P1450I0646A1235",                     "type": "P",                     "deleted": true,                     "edited": true,                     "missed": false                 },         {                     "app": "C0199K1464W8862",                     "type": "P",                     "deleted": true,                     "edited": true,                     "missed": false                 },         {                     "app": "C0199A0416H2984M1119D9685A0416",                     "type": "P",                     "deleted": true,                     "edited": true,                     "missed": false                 },         {                     "app": "C0199L8758S4907",                     "type": "P",                     "deleted": true,                     "edited": true,                     "missed": false                 },         {                     "app": "C0199L8758D5878",                     "type": "P",                     "deleted": true,                     "edited": true,                     "missed": false                 },         {                     "app": "O9920T1357M9877",                     "type": "T",                     "deleted": false,                     "edited": true,                     "missed": true                 },         {                     "app": "O9920T7932C6692",                     "type": "T",                     "deleted": false,                     "edited": true,                     "missed": true                 },         {                     "app": "O9920T1357P1297",                     "type": "T",                     "deleted": false,                     "edited": true,                     "missed": true                 }]</value>
+  </entry>
+  <entry>
+    <key>config_version</key>
+    <value>1.0</value>
+  </entry>
+  <entry>
+    <key>premium_purchase_dialog_retry_interval_max</key>
+    <value>864000001</value>
+  </entry>
+  <entry>
+    <key>ads_time_between_interstitial_huawei</key>
+    <value>10000</value>
+  </entry>
+  <entry>
+    <key>ads_time_between_interstitial_yandex</key>
+    <value>10010</value>
+  </entry>
+  <entry>
+    <key>ads_time_between_interstitial_admob</key>
+    <value>11400</value>
+  </entry>
+  <entry>
+    <key>tr_debouncing</key>
+    <value>true</value>
+  </entry>
+  <entry>
+    <key>promo_json</key>
+    <value>[{"code":"WA-ANDROIDTR.ES","promo_start":"1653493633756","promo_end":"1659474300000","campaign_name":"AndroidTR.es","app":"es.devtr.whatsremoved.recover.deleted.messages","promo_days":15},{"code":"WA-Police","promo_start":"1653493633756","promo_end":"2653493681931","campaign_name":"AndroidPolice","app":"es.devtr.whatsremoved.recover.deleted.messages","promo_days":1}]</value>
+  </entry>
+  <entry>
+    <key>migration_mandatory</key>
+    <value>false</value>
+  </entry>
+  <entry>
+    <key>ads_time_between_interstitial</key>
+    <value>12001</value>
+  </entry>
+  <entry>
+    <key>ads_local_stock_androidtr</key>
+    <value>false</value>
+  </entry>
+</defaults>

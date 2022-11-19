@@ -1,0 +1,51 @@
+[{
+        "tag": "faicheck",
+
+        "ads": [{
+                "languages": ["es", "gal"],
+                "id": "faicheck_es",
+                "content_url": "https://faicheck.github.io/",
+                "open_url": "https://www.google.com/search?q=faicheck%20es"
+            },
+            {
+                "languages": ["en"],
+                "id": "faicheck_en",
+                "content_url": "https://androidtr.es",
+                "open_url": "https://www.google.com/search?q=faicheck%20en"
+            },
+            {
+                "languages": ["default"],
+                "id": "faicheck_default",
+                "content_url": "https://google.es",
+                "open_url": "https://www.google.com/search?q=faicheck%20default"
+            }
+
+        ]
+
+    },
+    {
+        "tag": "random",
+
+        "ads": [{
+                "languages": ["es", "gal"],
+                "id": "random_es",
+                "content_url": "https://www.zendesk.es/about/#georedirect",
+                "open_url": "https://www.google.com/search?q=random%20es"
+            },
+            {
+                "languages": ["en"],
+                "id": "random_en",
+                "content_url": "https://tiksinmarca.github.io/",
+                "open_url": "https://www.google.com/search?q=random%20en"
+            },
+            {
+                "languages": ["default"],
+                "id": "random_default",
+                "content_url": "https://geneontology.github.io/",
+                "open_url": "https://www.google.com/search?q=random%20default"
+            }
+
+        ]
+
+    }
+]
