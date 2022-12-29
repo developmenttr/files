@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<defaults>
+  <entry>
+    <key>ui_version</key>
+    <value>2</value>
+  </entry>
+  <entry>
+    <key>app_signatures_analytics</key>
+    <value>{
+      "keys": [
+      {
+      "algorithm": "md5",
+      "key": "2E909C8EE3875709F1D56AB62A06E3F9"
+      },
+      {
+      "algorithm": "sha1",
+      "key": "0C4671B7ACA8E7B812227B799F3A2D73F892D745"
+      },
+      {
+      "algorithm": "sha256",
+      "key": "7CA653903790502FCCE14C3F9890ED3A91C6BD05569692A48623AD11AF549C49"
+      },
+      {
+      "algorithm": "md5",
+      "key": "395E3D7EB1ED307822F22E400417A0F1"
+      },
+      {
+      "algorithm": "sha1",
+      "key": "1EE5862CE91B4CDDC387DD58A2B8D989F02AF95E"
+      },
+      {
+      "algorithm": "sha256",
+      "key": "A84ED31AEE7B3186497588148A02F4EC3ED007B44E3E58E9EC490BCD3F3B503C"
+      },
+      {
+      "algorithm": "md5",
+      "key": "2249F351E5BFF3EDCFEE936E46240224"
+      },
+      {
+      "algorithm": "sha1",
+      "key": "8485E6DCBFD19CF61DACC7101EDEF282711035C6"
+      },
+      {
+      "algorithm": "sha256",
+      "key": "D2630C207F4B371D7737AA8E8A4EFCE10FC0E9CBFE18F75F8578B25D2BD862EA"
+      }
+      ]
+      }</value>
+  </entry>
+  <entry>
+    <key>ads_constants_v3</key>
+    <value>{"admobInterstitialBlocks":[{"code":"ca-app-pub-9700692024510750/2796776317","debug":"ca-app-pub-9700692024510750/2796776317","priority":100000,"time_between_ads":5000,"tag":"Normal"}],"admobRewardedBlocks":[{"code":"ca-app-pub-9700692024510750/9539220544","debug":"ca-app-pub-9700692024510750/9539220544","priority":1000,"time_between_ads":5000,"tag":"Normal"}],"huaweiInterstitialBlocks":[{"code":"l5rglfoa04","debug":"teste9ih9j0rc3","priority":51,"time_between_ads":5000,"tag":"Normal"}],"yandexInterstitialBlocks":[]}</value>
+  </entry>
+  <entry>
+    <key>ads_constants</key>
+    <value>{   "admobInterstitialBlocks": [     {       "block": [         {           "code": "ca-app-pub-9700692024510750/2796776317",           "debug": "ca-app-pub-9700692024510750/2796776317",           "priority": 2000,           "tag": "Normal"         }       ],       "keys": "normal",       "tag": "Normal"     },     {       "block": [         {           "code": "ca-app-pub-9700692024510750/2796776317",           "debug": "ca-app-pub-9700692024510750/2796776317",           "priority": 2000,           "tag": "Normal"         }       ],       "keys": "list",       "tag": "Lista"     }   ],   "admobRewardedBlocks": [     {       "block": [         {           "code": "ca-app-pub-9700692024510750/9539220544",           "debug": "ca-app-pub-9700692024510750/9539220544",           "priority": 100,           "tag": "Normal"         }       ],       "keys": "normal",       "tag": "Normal"     },     {       "block": [         {           "code": "ca-app-pub-9700692024510750/2678096667",           "debug": "ca-app-pub-9700692024510750/2678096667",           "priority": 100,           "tag": "Normal"         }       ],       "keys": "temppremium",       "tag": "Temp. Premium"     }   ],   "huaweiInterstitialBlocks": [     {       "block": [         {           "code": "l5rglfoa04",           "debug": "teste9ih9j0rc3",           "priority": 50,           "tag": "Huawei Normal"         }       ],       "keys": "normal",       "tag": "Normal"     }   ] }</value>
+  </entry>
+  <entry>
+    <key>worker_reloader_time_minutes</key>
+    <value>180</value>
+  </entry>
+  <entry>
+    <key>config_version</key>
+    <value>1.0</value>
+  </entry>
+  <entry>
+    <key>ads_time_between_interstitial_yandex</key>
+    <value>10010</value>
+  </entry>
+  <entry>
+    <key>ads_time_between_interstitial</key>
+    <value>12001</value>
+  </entry>
+  <entry>
+    <key>ads_time_between_interstitial_huawei</key>
+    <value>10000</value>
+  </entry>
+  <entry>
+    <key>ads_time_between_interstitial_admob</key>
+    <value>11400</value>
+  </entry>
+  <entry>
+    <key>ads_time_between_interstitial_local</key>
+    <value>10001</value>
+  </entry>
+  <entry>
+    <key>temp_files_viewer</key>
+    <value>true</value>
+  </entry>
+  <entry>
+    <key>premium_temporal_available</key>
+    <value>true</value>
+  </entry>
+  <entry>
+    <key>migration_mandatory</key>
+    <value>false</value>
+  </entry>
+  <entry>
+    <key>purchases_constants_v1</key>
+    <value>{"enabled":true,"purchaseActive":"quitar_anuncios","subscriptionActive":"suscripcion","donationActive":"donacion_cafe","subscriptionsList":["suscripcion","suscripcion2"],"purchasesList":["quitar_anuncios"],"donationsList":["donacion_cafe"]}</value>
+  </entry>
+  <entry>
+    <key>premium_purchase_dialog_retry_interval_min</key>
+    <value>604800001</value>
+  </entry>
+  <entry>
+    <key>ads_local_stock_androidtr</key>
+    <value>false</value>
+  </entry>
+  <entry>
+    <key>tr_debouncing</key>
+    <value>true</value>
+  </entry>
+  <entry>
+    <key>promo_appsup_huawei_json</key>
+    <value>{"active":true,"promo_start":"1668022940142","promo_end":"1668898800000","promo_message_title":"","promo_message_description":"","promo_message_button_vote":"","promo_message_button_postpone":"","postpone":7,"promo_button_id":"267","promoUrl":"https://developer.huawei.com/consumer/en/activity/digixActivity/digixdetail/201655277856046898?pageIndex=5&amp;regionId=Europe&amp;workId=201667835260216884"}</value>
+  </entry>
+  <entry>
+    <key>algorithm_configuration</key>
+    <value>[   {     "app": "C0199W4457",     "type": "W",     "deleted": true,     "edited": true,     "missed": false   },   {     "app": "C0199W4457W7688",     "type": "W",     "deleted": true,     "edited": true,     "missed": false   },   {     "app": "C0199L9300P1450I0646",     "type": "P",     "deleted": true,     "edited": true,     "missed": false   },   {     "app": "C0199P1450S1217L9840",     "type": "P",     "deleted": true,     "edited": true,     "missed": false   },   {     "app": "C0199L9300P1450I0646A1762",     "type": "P",     "deleted": true,     "edited": true,     "missed": false   },   {     "app": "C0199P1450S1217P0416",     "type": "P",     "deleted": true,     "edited": true,     "missed": false   },   {     "app": "C0199P1450S1217L9840A1762",     "type": "P",     "deleted": true,     "edited": true,     "missed": false   },   {     "app": "C0199P1450S1217P0416A1762",     "type": "P",     "deleted": true,     "edited": true,     "missed": false   },   {     "app": "C0199L9300P1450I0646A1235",     "type": "P",     "deleted": true,     "edited": true,     "missed": false   },   {     "app": "C0199K1464W8862",     "type": "P",     "deleted": true,     "edited": true,     "missed": false   },   {     "app": "C0199A0416H2984M1119D9685A0416",     "type": "P",     "deleted": true,     "edited": true,     "missed": false   },   {     "app": "C0199L8758S4907",     "type": "P",     "deleted": true,     "edited": true,     "missed": false   },   {     "app": "C0199L8758D5878",     "type": "P",     "deleted": true,     "edited": true,     "missed": false   },   {     "app": "O9920T1357M9877",     "type": "T",     "deleted": false,     "edited": true,     "missed": true   },   {     "app": "O9920T7932C6692",     "type": "T",     "deleted": false,     "edited": true,     "missed": true   },   {     "app": "O9920T1357P1297",     "type": "T",     "deleted": false,     "edited": true,     "missed": true   } ]</value>
+  </entry>
+  <entry>
+    <key>premium_purchase_dialog_retry_interval_max</key>
+    <value>864000001</value>
+  </entry>
+  <entry>
+    <key>algorithm_configuration2</key>
+    <value>[{"signature":"/5/13/0/11/15/0/23/23","type":"W","deleted":true,"edited":true,"remote_deletion":true,"missed":true},{"signature":"/23/0/18/0/19/19/7/19","type":"P","deleted":true,"edited":true,"remote_deletion":true,"missed":true},{"signature":"/4/19/24/25/7","type":"P","deleted":true,"edited":true,"remote_deletion":true,"missed":true},{"signature":"/6/20/0/19","type":"P","deleted":true,"edited":true,"remote_deletion":true,"missed":true},{"signature":"/19/20/6/0/15/13/14","type":"P","deleted":true,"edited":true,"remote_deletion":true,"missed":true},{"signature":"/19/7/10/18/0/22","type":"T","deleted":false,"edited":true,"remote_deletion":true,"missed":true},{"signature":"/12/13/14/19/14/0/24/0/23/23","type":"T","deleted":false,"edited":false,"remote_deletion":true,"missed":true}]</value>
+  </entry>
+  <entry>
+    <key>ads_constants_2</key>
+    <value>{   "admobInterstitialBlocks": [     {       "block": [         {           "code": "ca-app-pub-9700692024510750/2796776317",           "debug": "ca-app-pub-9700692024510750/2796776317",           "priority": 2000,           "tag": "Normal"         }       ],       "keys": "normal",       "tag": "Normal"     },     {       "block": [         {           "code": "ca-app-pub-9700692024510750/2796776317",           "debug": "ca-app-pub-9700692024510750/2796776317",           "priority": 2000,           "tag": "Normal"         }       ],       "keys": "list",       "tag": "Lista"     }   ],   "admobRewardedBlocks": [     {       "block": [         {           "code": "ca-app-pub-9700692024510750/9539220544",           "debug": "ca-app-pub-9700692024510750/9539220544",           "priority": 100,           "tag": "Normal"         }       ],       "keys": "normal",       "tag": "Normal"     },     {       "block": [         {           "code": "ca-app-pub-9700692024510750/2678096667",           "debug": "ca-app-pub-9700692024510750/2678096667",           "priority": 100,           "tag": "Normal"         }       ],       "keys": "temppremium",       "tag": "Temp. Premium"     }   ],   "huaweiInterstitialBlocks": [     {       "block": [         {           "code": "l5rglfoa04",           "debug": "teste9ih9j0rc3",           "priority": 51,           "tag": "Normal"         }       ],       "keys": "normal",       "tag": "Normal"     }   ],   "yandexInterstitialBlocks": [] }</value>
+  </entry>
+  <entry>
+    <key>migration_json</key>
+    <value>{     "title": [         {             "code": "en",             "text": "Hi"         },         {             "code": "es",             "text": "Nos mudamos"         }     ],     "body": [         {             "code": "en",             "text": "Hi"         },         {             "code": "es",             "text": "Esta aplicación dejará de tener soporte pronto. Por favor, descarga la nueva versión. Con el código que aparece a continuación tendrás funciones premium durante 7 días gratis."         }     ],     "promo": [         {             "code": "en",             "text": "Hi"         },         {             "code": "es",             "text": "Código: WA-Police"         }     ],     "cancelable":true,     "url": "https://play.google.com/store/apps/details?id=es.devtr.whatsremoved.recover.deleted.messages" }</value>
+  </entry>
+</defaults>
