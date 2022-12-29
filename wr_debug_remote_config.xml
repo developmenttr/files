@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <defaults>
   <entry>
+    <key>xml_file_signature</key>
+    <value>DevelopmentTR</value>
+  </entry>
+  <entry>
     <key>ui_version</key>
     <value>2</value>
   </entry>
