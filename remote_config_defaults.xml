@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <defaults>
   <entry>
-    <key>ads_constants_v3</key>
-    <value>{"admobInterstitialBlocks":[{"code":"ca-app-pub-9700692024510750/1513260553","debug":"ca-app-pub-9700692024510750/1513260553","priority":2000,"tag":"Normal"}],"admobRewardedBlocks":[{"code":"ca-app-pub-9700692024510750/3373137138","debug":"ca-app-pub-9700692024510750/3373137138","priority":100,"tag":"Normal"}],"huaweiInterstitialBlocks":[],"yandexInterstitialBlocks":[{"code":"R-M-1695491-1","debug":"R-M-DEMO-interstitial","priority":51,"tag":"Normal"}]}</value>
-  </entry>
-  <entry>
     <key>ads_constants_2</key>
     <value>{"admobInterstitialBlocks":[{"block":[{"code":"ca-app-pub-9700692024510750/1513260553","debug":"ca-app-pub-9700692024510750/1513260553","priority":2000,"tag":"Normal"}],"keys":"normal","tag":"Normal"},{"block":[{"code":"ca-app-pub-9700692024510750/1513260553","debug":"ca-app-pub-9700692024510750/1513260553","priority":2000,"tag":"Normal"}],"keys":"list","tag":"Lista"}],"admobRewardedBlocks":[{"block":[{"code":"ca-app-pub-9700692024510750/3373137138","debug":"ca-app-pub-9700692024510750/3373137138","priority":100,"tag":"Normal"}],"keys":"normal","tag":"Normal"},{"block":[{"code":"ca-app-pub-9700692024510750/3373137138","debug":"ca-app-pub-9700692024510750/3373137138","priority":100,"tag":"Normal"}],"keys":"temppremium","tag":"Temp. Premium"}],"huaweiInterstitialBlocks":[],"yandexInterstitialBlocks":[{"block":[{"code":"R-M-1695491-1","debug":"R-M-DEMO-interstitial","priority":51,"tag":"Normal"}],"keys":"normal","tag":"Normal"}]}</value>
   </entry>
